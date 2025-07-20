@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "65c93fa1-6565-404c-a06e-5a3a7ef91475",
+      "name": "Test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "be2c1400-8a08-4119-ade1-9d688b353431",
+      "name": "Test2",
+      "email": "test2@gmail.com"
+    },
+    {
+      "id": "67b52942-6aec-4644-a6dc-bde63ec0c3aa",
+      "name": "Pallab",
+      "email": "pallabmandal002@gmail.com"
+    }
+  ]
+}
