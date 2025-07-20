@@ -20,6 +20,6 @@ A clean and user-friendly **React-based Contact Manager** application with CRUD 
 - **React** (Functional Components + Hooks)
 - **React Router DOM**
 - **Axios** for HTTP requests
-- **UUID** for unique contact IDs
+- **uuid** for unique contact IDs
 - **Semantic UI** for styling
 - **JSON Server** (as a mock backend)
